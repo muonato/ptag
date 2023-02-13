@@ -9,5 +9,5 @@ Using dialog where installed (see e.g. 'apt info dialog') otherwise prompts for 
 	Author: <copyright owner>
 	Target: <path to target directory>
 
-Input parameters are updated to 'ptag.dat' file for ease of use.
+Input parameters are updated to 'ptag.dat' file to be used again.
 Requires the ImageMagick suite, verify with '$ convert -version'
