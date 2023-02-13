@@ -1,5 +1,5 @@
 # Picture overlay tag
-Bash script for text overlay on graphics images using ImageMagick suite
+Bash script for text overlay on graphics images using the ImageMagick suite.
 
 Using dialog where installed (see e.g. 'apt info dialog') otherwise prompts for input as follows:
 
@@ -9,5 +9,5 @@ Using dialog where installed (see e.g. 'apt info dialog') otherwise prompts for 
 	Author: <copyright owner>
 	Target: <path to target directory>
 
-Input parameters are updated to 'ptag.dat' file with each run
-Requires 'convert' from the ImageMagick suite
+Input parameters are updated to 'ptag.dat' file for ease of use.
+Requires the ImageMagick suite, verify with '$ convert -version'
