@@ -1,7 +1,7 @@
 #!/bin/bash
+# muonato/ptag @ GitHub (27-JAN-2022)
 #
 # Bash script for text overlay on graphics images
-# muonato/ptag @ GitHub (27-JAN-2022)
 #
 # Using dialog where installed (e.g. 'apt info dialog')
 # otherwise, prompts for input as follows:
