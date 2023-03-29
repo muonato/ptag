@@ -1,5 +1,5 @@
 # Picture overlay tag
-Bash script for text overlay on graphics images using the ImageMagick suite.
+Bash script for text overlay on graphics images using the ImageMagick package.
 
 Using dialog where installed (see e.g. 'apt info dialog') otherwise prompts for input as follows:
 
